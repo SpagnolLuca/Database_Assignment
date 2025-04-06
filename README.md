@@ -9,3 +9,7 @@ after i installed everything, i used pip freeze > requirments.txt to generate a 
 after putting the code into a main.py file, running it using the link works.
 
 A mongoDB Cluster was created and connected using mongo Compass, I then created fake data using JSON files which appear on both Compass and Atlas.
+
+the main code has been updated to support get endpoints.
+
+tested player score with postman, it gave an ok and works on the site using the get endpoints.
