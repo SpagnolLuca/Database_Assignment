@@ -11,5 +11,8 @@
             "src": "/(.*)", 
             "dest": "main.py" 
      } 
-    ] 
+    ],
+    "env": {
+        "MONGO_URI": "mongodb+srv://admin:Frozen12@dbclusterassignment.dkqp6jq.mongodb.net/testDB?retryWrites=true&w=majority&appName=DBClusterAssignment"
+    }
 } 
