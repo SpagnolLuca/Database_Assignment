@@ -13,3 +13,5 @@ A mongoDB Cluster was created and connected using mongo Compass, I then created 
 the main code has been updated to support get endpoints.
 
 tested player score with postman, it gave an ok and works on the site using the get endpoints.
+
+I have made a josn for for vercel.

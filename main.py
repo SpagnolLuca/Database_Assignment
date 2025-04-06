@@ -8,7 +8,7 @@ import io
 
 # Configuration
 MONGO_URI = "mongodb+srv://admin:Frozen12@dbclusterassignment.dkqp6jq.mongodb.net/testDB?retryWrites=true&w=majority&appName=DBClusterAssignment"
-DB_NAME = "DBClusterAssignment"
+DB_NAME = "DB_Assignment"
 SPRITES_COLLECTION = "Sprites"
 AUDIO_COLLECTION = "Audio"
 SCORES_COLLECTION = "Scores"
