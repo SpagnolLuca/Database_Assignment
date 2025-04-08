@@ -14,4 +14,4 @@ the main code has been updated to support get endpoints.
 
 tested player score with postman, it gave an ok and works on the site using the get endpoints.
 
-I have made a josn for for vercel.
+I have made a json for vercel.
